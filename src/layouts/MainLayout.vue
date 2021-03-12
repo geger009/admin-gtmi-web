@@ -1,11 +1,13 @@
 <template>
   <q-layout view="lHh Lpr lFf">
-    <q-header>
+    <q-header
+      class="transparent"
+    >
       <q-toolbar>
         <q-space></q-space>
 
         <q-toolbar-title
-          class="text-center"
+          class="text-center text-h4 text-black"
         >
           GTMI
         </q-toolbar-title>
